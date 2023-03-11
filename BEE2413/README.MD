@@ -11,6 +11,5 @@ Saída
 Para cada caso de teste imprima apenas uma linha, contendo apenas um inteiro, indicando quantas pessoas clicaram no primeiro link, nessa busca.
 | Exemplos de Entrada |	Exemplos de Saída |
 | ------------------- | ----------------- |
-| 2 | 8 | 
-
+| 2  | 8   | 
 | 25 | 100 |
